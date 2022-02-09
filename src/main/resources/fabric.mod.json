@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "masks",
+  "version": "${version}",
+
+  "name": "corgi's Mask Emporium",
+  "description": "mask mask mask and corgi? that sounds about right, yeah.",
+  "authors": [
+    "corgi in tights#5131"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/masks/icon.png",
+
+  "environment": "*",
+
+  "entrypoints": {
+    "main": [
+      "net.thecorgi.masks.MaskEmporium"
+    ], "client": [
+      "net.thecorgi.masks.client.MaskEmporiumClient"
+    ], "modmenu": [
+      "net.thecorgi.masks.config.MasksModmenu"
+    ]
+  },
+  "mixins": [
+    "masks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

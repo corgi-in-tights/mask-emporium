@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "masks:block/head_display",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "masks:block/head_display"
+    },
+    "facing=south": {
+      "model": "masks:block/head_display",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "masks:block/head_display",
+      "y": 270
+    }
+  }
+}

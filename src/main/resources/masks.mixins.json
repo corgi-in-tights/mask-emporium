@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.thecorgi.masks.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "entity.LivingEntityMixin",
+    "entity.ArrowEntityMixin",
+    "renderer.LivingEntityRendererMixin",
+    "entity.PlayerEntityMixin",
+    "renderer.ArmorFeatureRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "masks:rabbit_mask",
+    "masks:mustache",
+    "masks:filter_mask",
+    "masks:cyclops_eye_mask",
+    "masks:thief_mask",
+    "masks:bloodhound_mask",
+    "masks:cowardly_mask",
+    "masks:devils_mask",
+    "masks:butchers_mask",
+    "masks:causative_mask",
+    "masks:mask_of_sol",
+    "masks:jagged_mask",
+    "masks:fortunas_ballet"
+  ]
+}

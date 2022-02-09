@@ -1,0 +1,54 @@
+{
+  "block.masks.head_display": "Head Display",
+  "item.masks.mask_bag": "Mask Bag",
+  "item.masks.mask_bag.tooltip": "Contains a random §6mask§7.",
+
+  "item.masks.rabbit_mask": "Rabbit Mask",
+  "item.masks.mustache": "Mustache",
+  "item.masks.filter_mask": "Filter Mask",
+  "item.masks.thief_mask": "Thief Mask",
+  "item.masks.cyclops_eye_mask": "Cyclops Eye Mask",
+  "item.masks.bloodhound_mask": "Bloodhound Mask",
+  "item.masks.cowardly_mask": "Cowardly Mask",
+  "item.masks.devils_mask": "Devil's Mask",
+  "item.masks.butchers_mask": "Butcher's Mask",
+  "item.masks.causative_mask": "Causative Mask",
+  "item.masks.mask_of_sol": "Mask of Sol",
+  "item.masks.jagged_mask": "Jagged Mask",
+  "item.masks.fortunas_ballet": "Fortuna's Ballet",
+
+  "item.masks.filter_mask.tooltip": "Store breathe for later use.",
+  "item.masks.thief_mask.tooltip": "Blend with the shadows.",
+  "item.masks.cyclops_eye_mask.tooltip": "Arrows aim true, always.",
+  "item.masks.bloodhound_mask.tooltip": "Strikes may make living bleed.",
+  "item.masks.cowardly_mask.tooltip": "Weaker when weak; yet faster.",
+  "item.masks.devils_mask.tooltip": "Trade life for damage.",
+  "item.masks.butchers_mask.tooltip": "Hostile drop more rewards.",
+  "item.masks.causative_mask.tooltip": "Become the center of attention.",
+  "item.masks.mask_of_sol.tooltip": "Burnt by sun, not by more.",
+  "item.masks.jagged_mask.tooltip": "Slip in the cracks of armor.",
+  "item.masks.fortunas_ballet.tooltip": "Become beloved by luck.",
+
+  "effect.masks.bleeding": "Bleeding",
+  "itemGroup.masks.mask_group": "corgi's Mask Emporium",
+
+
+  "text.autoconfig.masks.option.chest_loot_chance": "Chest Loot Chance",
+  "text.autoconfig.masks.option.loot_chance.bag_chance": "Mask Bag Weight",
+  "text.autoconfig.masks.option.loot_chance.void_chance": "Empty Entry Weight (chance to not spawn bag)",
+
+
+  "text.autoconfig.masks.option.mask_controller": "Mask Bag Loot Table",
+  "text.autoconfig.masks.option.mask_controller.mustache": "Mustache",
+  "text.autoconfig.masks.option.mask_controller.filter_mask": "Filter Mask",
+  "text.autoconfig.masks.option.mask_controller.thief_mask": "Thief Mask",
+  "text.autoconfig.masks.option.mask_controller.cyclops_eye_mask": "Cyclops Eye Mask",
+  "text.autoconfig.masks.option.mask_controller.bloodhound_mask": "Bloodhound Mask",
+  "text.autoconfig.masks.option.mask_controller.cowardly_mask": "Cowardly Mask",
+  "text.autoconfig.masks.option.mask_controller.devils_mask": "Devil's Mask",
+  "text.autoconfig.masks.option.mask_controller.butchers_mask": "Butcher's Mask",
+  "text.autoconfig.masks.option.mask_controller.causative_mask": "Causative Mask",
+  "text.autoconfig.masks.option.mask_controller.mask_of_sol": "Mask of Sol",
+  "text.autoconfig.masks.option.mask_controller.jagged_mask": "Jagged Mask",
+  "text.autoconfig.masks.option.mask_controller.fortunas_ballet": "Fortuna's Ballet"
+}
